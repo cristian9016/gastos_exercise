@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MisGastos</string>
+    <string-array name="gasto_category">
+        <item>Bancos</item>
+        <item>Comida</item>
+        <item>Transporte</item>
+        <item>Diversion</item>
+        <item>Licor</item>
+        <item>Otros</item>
+    </string-array>
+</resources>
